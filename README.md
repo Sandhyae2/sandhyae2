@@ -1,5 +1,13 @@
 ## Hi Sandhya here 👋
 
+Interested in
+🧬 Genetic Engineering,📊 Bioinformatics,🧪Genomics.
+💻Master's in Bioinformatics
+🧪Bachelor's in Biotechnology and Chemistry.
+
+## Languages 
+
+
 <!--
 **Sandhyae2/sandhyae2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
