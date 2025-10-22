@@ -1,6 +1,6 @@
 ## Hi Sandhya here 👋
 
-## Interested in
+# Interested in
 🧬 Genetic Engineering,📊 Bioinformatics,🧪Genomics.
 💻Master's in Bioinformatics
 🧪Bachelor's in Biotechnology and Chemistry.
