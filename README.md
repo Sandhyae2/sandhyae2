@@ -1,5 +1,5 @@
 # Hi Sandhya here 👋
-
+<img align="right" src="[https://nicoledoeswellness.com/wp-content/uploads/2019/03/happy-smile-guy.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR86vJSuJ807x8DyC-UJZGZ2lIXDom3QRRyLgfoAtnSoeQCRUNPFaHuhzg0Rk0UWyRaB1I&usqp=CAU)" width="250" alt="Coding gif"/>
 <h3 align="left">  About Me</h3> 
 <div align="left">
   <ul>
