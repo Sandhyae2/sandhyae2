@@ -1,10 +1,13 @@
-# Hi Sandhya here 👋
+# Hi, Sandhya here 👋
+  
 <img align="right" src="https://img.freepik.com/free-vector/organic-flat-people-meditating-illustration_23-2148906557.jpg" width="250" alt="Coding gif"/>
 <h3 align="left">  About Me</h3> 
 <div align="left">
   <ul>
+    <li>💡 Exploring new ideas </li> 
+    <li>✨🌻 Grounded and Glowing</li>
     <li>💻 Master's in Bioinformatics</li>    
-     <li> 🧪 Bachelor's in Biotechnology and Chemistry</li> 
+    <li> 🧪 Bachelor's in Biotechnology and Chemistry</li> 
  </ul>
 </div>
 
@@ -15,6 +18,7 @@
     <li>🧬 Genetic Engineering</li>  
     <li>📊 Bioinformatics</li>  
     <li>🧪 Genomics</li>  
+    <li>🧠 Neuroscience</li>  
  </ul>
 </div>
 
@@ -34,7 +38,7 @@
   </a><span style="font-size: 16px; vertical-align: middle;"> (learning)</span>
     <a href="https://www.linux.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a><span style="font-size: 16px; vertical-align: middle;"> (learning)</span>
+  </a><span style="font-size: 16px; vertical-align: middle;"> (yet to learning)</span>
   
   
 
