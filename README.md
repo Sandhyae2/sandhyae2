@@ -1,8 +1,5 @@
 # Hi, Sandhya here 👋
 
- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F700FF&size=30&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Bioinformatics+Student;Python+Learner" />
-</p> 
 <img align="right" src="https://img.freepik.com/free-vector/organic-flat-people-meditating-illustration_23-2148906557.jpg" width="250" alt="Coding gif"/>
 <h3 align="left">  About Me</h3> 
 <div align="left">
