@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="300">
+</p>
 # Hi, Sandhya here 👋
 
 <img align="right" src="https://img.freepik.com/free-vector/organic-flat-people-meditating-illustration_23-2148906557.jpg" width="250" alt="Coding gif"/>
