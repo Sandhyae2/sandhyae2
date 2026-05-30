@@ -1,11 +1,3 @@
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Sandhya's%20GitHub&fontSize=50&animation=fadeIn"/>
-
-  <img align="right" width="280" src="https://media.tenor.com/DimzPZMypFcAAAAi/laptop.gif"/>
-
-</p>
-
-<br><br><br><br><br><br><br><br>
 # Hi, Sandhya here 👋
 
 <img align="right" src="https://img.freepik.com/free-vector/organic-flat-people-meditating-illustration_23-2148906557.jpg" width="250" alt="Coding gif"/>
