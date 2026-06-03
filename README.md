@@ -1,5 +1,8 @@
 # Hi, Sandhya here 👋
 
+![Snake animation](https://github.com/Sandhyae2/sandhyae2/edit/main/README.mdoutput/github-contribution-grid-snake.svg)
+
+
 <img align="right" src="https://img.freepik.com/free-vector/organic-flat-people-meditating-illustration_23-2148906557.jpg" width="250" alt="Coding gif"/>
 <h3 align="left">  About Me</h3> 
 <div align="left">
@@ -42,6 +45,6 @@
 ---
 [![](https://komarev.com/ghpvc/?username=sandhyae2&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
