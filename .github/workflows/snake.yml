@@ -1,5 +1,3 @@
-permissions:
-  contents: write
 name: Generate Snake
 
 on:
@@ -7,6 +5,9 @@ on:
   workflow_dispatch:
   schedule:
   - cron: "0 0 * * *"
+  
+permissions:
+  contents: write
   
 
 jobs:
@@ -20,12 +21,10 @@ jobs:
           github_user_name: Sandhyae2
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Push to output branch
-        u- uses: JamesIves/github-pages-deploy-action@v4
+      - uses: JamesIves/github-pages-deploy-action@v4
         with:
-        branch: output
-        folder: dist
-        clean: true
-        force: true
-      env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          branch: output
+          folder: dist
+          clean: true
+          force: true
+
