@@ -19,9 +19,11 @@ jobs:
           outputs: dist/github-contribution-grid-snake.svg
 
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+        u- uses: JamesIves/github-pages-deploy-action@v4
         with:
-          target_branch: output
-          build_dir: dist
-        env:
+        branch: output
+        folder: dist
+        clean: true
+        force: true
+      env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
