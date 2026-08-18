@@ -1,46 +1,58 @@
-# Hi, Sandhya here 👋
+<p align="center">
+  <svg width="100%" viewBox="0 0 1280 320" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#08111F"/>
+        <stop offset="100%" stop-color="#142744"/>
+      </linearGradient>
 
-<img align="right" src="https://img.freepik.com/free-vector/organic-flat-people-meditating-illustration_23-2148906557.jpg" width="250" alt="Coding gif"/>
-<h3 align="left">  About Me</h3> 
-<div align="left">
-  <ul>
-    <li>💡 Exploring new ideas </li> 
-    <li>✨🌻 Grounded and Glowing</li>
-    <li>💻 Master's in Bioinformatics</li>    
-    <li> 🧪 Bachelor's in Biotechnology and Chemistry</li> 
- </ul>
-</div>
+      <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0%" stop-color="#22D3EE"/>
+        <stop offset="50%" stop-color="#67E8F9"/>
+        <stop offset="100%" stop-color="#C4F5FF"/>
+      </linearGradient>
 
+      <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+        <feGaussianBlur stdDeviation="6" result="blur"/>
+        <feMerge>
+          <feMergeNode in="blur"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+    </defs>
 
-<h3 align="left"> Interested in</h3> 
-<div align="left">
-  <ul>
-    <li>🧬 Genetic Engineering</li>  
-    <li>📊 Bioinformatics</li>  
-    <li>🧪 Genomics</li>  
-    <li>🧠 Neuroscience</li>  
- </ul>
-</div>
+    <rect width="1280" height="320" rx="18" fill="url(#bg)"/>
 
- 
+    <circle cx="1100" cy="70" r="90" fill="#38BDF8" opacity="0.05"/>
 
-<!-- <h3 align="left"> Languages</h3>  -->
-<h3>  💻 Programming Languages: </h3>
+    <g fill="none" stroke-linecap="round">
+      <path d="M-20 240 C140 160,260 290,420 210 S760 90,930 180 S1160 260,1300 140"
+            stroke="#56D7EE" stroke-opacity="0.18" stroke-width="2"/>
 
-<p align="left">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+      <path d="M-20 248 C140 168,260 298,420 218 S760 98,930 188 S1160 268,1300 148"
+            stroke="#56D7EE" stroke-opacity="0.30" stroke-width="2"/>
 
- 
-<h3> GitHub Stats: </h3>
+      <path d="M-20 256 C140 176,260 306,420 226 S760 106,930 196 S1160 276,1300 156"
+            stroke="url(#wave)" stroke-width="4" filter="url(#glow)"/>
 
-![](https://github-readme-stats.shion.dev/api?username=sandhyae2&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=sandhyae2&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sandhyae2&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+      <path d="M-20 264 C140 184,260 314,420 234 S760 114,930 204 S1160 284,1300 164"
+            stroke="#C4F5FF" stroke-opacity="0.45" stroke-width="2"/>
+    </g>
 
+    <text x="80" y="120"
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="64"
+          font-weight="700"
+          fill="#F8FAFC">
+      Sandhya
+    </text>
 
-
-
-
-
+    <text x="84" y="155"
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="20"
+          letter-spacing="5"
+          fill="#B6C8DA">
+      COMPUTATIONAL BIOLOGY
+    </text>
+  </svg>
+</p>
