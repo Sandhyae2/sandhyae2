@@ -31,33 +31,44 @@
   <g fill="none" stroke-linecap="round">
 
     <!-- ===== Harmonic Ribbon Wave ===== -->
+<!-- ========= 3D MULTI-STRAND WAVE ========= -->
 <g fill="none" stroke-linecap="round">
 
-  <path d="M-40 248 C160 178,320 308,520 188 S900 98,1080 178 S1240 268,1320 138" stroke="#22D3EE" stroke-opacity="0.03" stroke-width="1"/>
-  <path d="M-40 252 C160 182,320 312,520 192 S900 102,1080 182 S1240 272,1320 142" stroke="#22D3EE" stroke-opacity="0.05" stroke-width="1"/>
-  <path d="M-40 256 C160 186,320 316,520 196 S900 106,1080 186 S1240 276,1320 146" stroke="#22D3EE" stroke-opacity="0.08" stroke-width="1"/>
-  <path d="M-40 260 C160 190,320 320,520 200 S900 110,1080 190 S1240 280,1320 150" stroke="#22D3EE" stroke-opacity="0.12" stroke-width="1"/>
-  <path d="M-40 264 C160 194,320 324,520 204 S900 114,1080 194 S1240 284,1320 154" stroke="#22D3EE" stroke-opacity="0.18" stroke-width="1.2"/>
-  <path d="M-40 268 C160 198,320 328,520 208 S900 118,1080 198 S1240 288,1320 158" stroke="#22D3EE" stroke-opacity="0.26" stroke-width="1.2"/>
-  <path d="M-40 272 C160 202,320 332,520 212 S900 122,1080 202 S1240 292,1320 162" stroke="#22D3EE" stroke-opacity="0.36" stroke-width="1.4"/>
-  <path d="M-40 276 C160 206,320 336,520 216 S900 126,1080 206 S1240 296,1320 166" stroke="#22D3EE" stroke-opacity="0.50" stroke-width="1.6"/>
+  <!-- Back strands -->
+  <path d="M-40 250 C120 330,250 110,420 220 S760 330,930 150 S1180 250,1320 180"
+        stroke="#0EA5E9" stroke-opacity="0.08" stroke-width="1"/>
+  <path d="M-40 258 C120 338,250 118,420 228 S760 338,930 158 S1180 258,1320 188"
+        stroke="#22D3EE" stroke-opacity="0.10" stroke-width="1"/>
+  <path d="M-40 266 C120 346,250 126,420 236 S760 346,930 166 S1180 266,1320 196"
+        stroke="#38BDF8" stroke-opacity="0.12" stroke-width="1"/>
 
-  <!-- Main glowing line -->
-  <path d="M-40 280 C160 210,320 340,520 220 S900 130,1080 210 S1240 300,1320 170"
-        stroke="url(#wave)"
-        stroke-width="3.8"
-        filter="url(#glow)"/>
+  <!-- Middle ribbon -->
+  <path d="M-40 240 C120 320,250 100,420 210 S760 320,930 140 S1180 240,1320 170"
+        stroke="#22D3EE" stroke-opacity="0.25" stroke-width="1.2"/>
+  <path d="M-40 244 C120 324,250 104,420 214 S760 324,930 144 S1180 244,1320 174"
+        stroke="#38BDF8" stroke-opacity="0.35" stroke-width="1.3"/>
+  <path d="M-40 248 C120 328,250 108,420 218 S760 328,930 148 S1180 248,1320 178"
+        stroke="#67E8F9" stroke-opacity="0.50" stroke-width="1.5"/>
 
-  <path d="M-40 284 C160 214,320 344,520 224 S900 134,1080 214 S1240 304,1320 174" stroke="#BFF7FF" stroke-opacity="0.55" stroke-width="1.6"/>
-  <path d="M-40 288 C160 218,320 348,520 228 S900 138,1080 218 S1240 308,1320 178" stroke="#DDFDFF" stroke-opacity="0.35" stroke-width="1.4"/>
-  <path d="M-40 292 C160 222,320 352,520 232 S900 142,1080 222 S1240 312,1320 182" stroke="#EAFEFF" stroke-opacity="0.22" stroke-width="1.2"/>
-  <path d="M-40 296 C160 226,320 356,520 236 S900 146,1080 226 S1240 316,1320 186" stroke="#EAFEFF" stroke-opacity="0.14" stroke-width="1"/>
-  <path d="M-40 300 C160 230,320 360,520 240 S900 150,1080 230 S1240 320,1320 190" stroke="#EAFEFF" stroke-opacity="0.08" stroke-width="1"/>
+  <!-- MAIN GLOWING STRAND -->
+  <path d="M-40 252 C120 332,250 112,420 222 S760 332,930 152 S1180 252,1320 182"
+        stroke="#E0FBFF" stroke-width="4.2" filter="url(#glow)"/>
+  <path d="M-40 252 C120 332,250 112,420 222 S760 332,930 152 S1180 252,1320 182"
+        stroke="#67E8F9" stroke-width="2.6"/>
+
+  <!-- Front strands -->
+  <path d="M-40 256 C120 336,250 116,420 226 S760 336,930 156 S1180 256,1320 186"
+        stroke="#BFF7FF" stroke-opacity="0.65" stroke-width="1.4"/>
+  <path d="M-40 260 C120 340,250 120,420 230 S760 340,930 160 S1180 260,1320 190"
+        stroke="#CFFAFE" stroke-opacity="0.45" stroke-width="1.2"/>
+  <path d="M-40 264 C120 344,250 124,420 234 S760 344,930 164 S1180 264,1320 194"
+        stroke="#E0FBFF" stroke-opacity="0.25" stroke-width="1"/>
+
+  <!-- Pale yellow accent -->
+  <path d="M-40 282 C150 170,320 300,520 255 S850 120,1030 240 S1220 300,1320 210"
+        stroke="#F6E58D" stroke-opacity="0.75" stroke-width="1.6"/>
 
 </g>
-
-  </g>
-
   <!-- Name -->
   <text x="80" y="120"
         font-family="Didot, Bodoni MT, Times New Roman, serif"
