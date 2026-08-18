@@ -30,17 +30,31 @@
   <!-- Layered wave -->
   <g fill="none" stroke-linecap="round">
 
-    <path d="M-20 240 C140 160,260 290,420 210 S760 90,930 180 S1160 260,1300 140"
-          stroke="#56D7EE" stroke-opacity="0.18" stroke-width="2"/>
+    <!-- ===== Harmonic Ribbon Wave ===== -->
+<g fill="none" stroke-linecap="round">
 
-    <path d="M-20 248 C140 168,260 298,420 218 S760 98,930 188 S1160 268,1300 148"
-          stroke="#56D7EE" stroke-opacity="0.30" stroke-width="2"/>
+  <path d="M-40 248 C160 178,320 308,520 188 S900 98,1080 178 S1240 268,1320 138" stroke="#22D3EE" stroke-opacity="0.03" stroke-width="1"/>
+  <path d="M-40 252 C160 182,320 312,520 192 S900 102,1080 182 S1240 272,1320 142" stroke="#22D3EE" stroke-opacity="0.05" stroke-width="1"/>
+  <path d="M-40 256 C160 186,320 316,520 196 S900 106,1080 186 S1240 276,1320 146" stroke="#22D3EE" stroke-opacity="0.08" stroke-width="1"/>
+  <path d="M-40 260 C160 190,320 320,520 200 S900 110,1080 190 S1240 280,1320 150" stroke="#22D3EE" stroke-opacity="0.12" stroke-width="1"/>
+  <path d="M-40 264 C160 194,320 324,520 204 S900 114,1080 194 S1240 284,1320 154" stroke="#22D3EE" stroke-opacity="0.18" stroke-width="1.2"/>
+  <path d="M-40 268 C160 198,320 328,520 208 S900 118,1080 198 S1240 288,1320 158" stroke="#22D3EE" stroke-opacity="0.26" stroke-width="1.2"/>
+  <path d="M-40 272 C160 202,320 332,520 212 S900 122,1080 202 S1240 292,1320 162" stroke="#22D3EE" stroke-opacity="0.36" stroke-width="1.4"/>
+  <path d="M-40 276 C160 206,320 336,520 216 S900 126,1080 206 S1240 296,1320 166" stroke="#22D3EE" stroke-opacity="0.50" stroke-width="1.6"/>
 
-    <path d="M-20 256 C140 176,260 306,420 226 S760 106,930 196 S1160 276,1300 156"
-          stroke="url(#wave)" stroke-width="4" filter="url(#glow)"/>
+  <!-- Main glowing line -->
+  <path d="M-40 280 C160 210,320 340,520 220 S900 130,1080 210 S1240 300,1320 170"
+        stroke="url(#wave)"
+        stroke-width="3.8"
+        filter="url(#glow)"/>
 
-    <path d="M-20 264 C140 184,260 314,420 234 S760 114,930 204 S1160 284,1300 164"
-          stroke="#C4F5FF" stroke-opacity="0.45" stroke-width="2"/>
+  <path d="M-40 284 C160 214,320 344,520 224 S900 134,1080 214 S1240 304,1320 174" stroke="#BFF7FF" stroke-opacity="0.55" stroke-width="1.6"/>
+  <path d="M-40 288 C160 218,320 348,520 228 S900 138,1080 218 S1240 308,1320 178" stroke="#DDFDFF" stroke-opacity="0.35" stroke-width="1.4"/>
+  <path d="M-40 292 C160 222,320 352,520 232 S900 142,1080 222 S1240 312,1320 182" stroke="#EAFEFF" stroke-opacity="0.22" stroke-width="1.2"/>
+  <path d="M-40 296 C160 226,320 356,520 236 S900 146,1080 226 S1240 316,1320 186" stroke="#EAFEFF" stroke-opacity="0.14" stroke-width="1"/>
+  <path d="M-40 300 C160 230,320 360,520 240 S900 150,1080 230 S1240 320,1320 190" stroke="#EAFEFF" stroke-opacity="0.08" stroke-width="1"/>
+
+</g>
 
   </g>
 
