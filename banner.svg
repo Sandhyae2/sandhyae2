@@ -67,13 +67,4 @@
     Sandhya Elumalai
   </text>
 
-  <!-- Subtitle -->
-  <text x="84" y="155"
-        font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
-        font-size="20"
-        letter-spacing="5"
-        fill="#B6C8DA">
-    BIONFORMATICS, COMPUTATIONAL NEUROSCIENCE, GENETIC ENGINEERING  
-  </text>
-
 </svg>
