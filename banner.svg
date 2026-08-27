@@ -590,27 +590,27 @@
   <!-- DEGREE -->
  <text
       x="70"
-      y="425"
+      y="412"
       font-family="Arial, sans-serif"
       font-size="21"
       font-weight="600"
-      fill="#67E8F9">
+      fill="#A78BFA">
 
     💡 Exploring new ideas
   </text>
  <text
       x="70"
-      y="455"
+      y="439"
       font-family="Arial, sans-serif"
       font-size="21"
       font-weight="600"
-      fill="#67E8F9">
+      fill="#A78BFA">
 
     ✨🌻  Grounded and Glowing 
   </text>
   <text
       x="70"
-      y="485"
+      y="466"
       font-family="Arial, sans-serif"
       font-size="21"
       font-weight="600"
@@ -620,7 +620,7 @@
   </text>
 <text
       x="70"
-      y="515"
+      y="493"
       font-family="Arial, sans-serif"
       font-size="21"
       font-weight="600"
@@ -633,7 +633,7 @@
 
   <text
       x="80"
-      y="545"
+      y="526"
       font-family="Arial, sans-serif"
       font-size="20"
       font-weight="600"
@@ -648,7 +648,7 @@
 
   <text
       x="70"
-      y="575"
+      y="553"
       font-family="Arial, sans-serif"
       font-size="16"
       fill="#E2E8F0">
@@ -662,7 +662,7 @@
 
   <text
       x="390"
-      y="575"
+      y="553"
       font-family="Arial, sans-serif"
       font-size="16"
       fill="#E2E8F0">
@@ -676,7 +676,7 @@
 
   <text
       x="760"
-      y="575"
+      y="553"
       font-family="Arial, sans-serif"
       font-size="16"
       fill="#E2E8F0">
@@ -690,7 +690,7 @@
 
   <text
       x="80"
-      y="605"
+      y="580"
       font-family="Arial, sans-serif"
       font-size="16"
       fill="#E2E8F0">
