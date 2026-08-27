@@ -598,24 +598,18 @@
       fill="#67E8F9">
 
     MSc Bioinformatics
-
   </text>
-
-
-  <!-- UNIVERSITY -->
-
-  <text
+<text
       x="70"
       y="455"
       font-family="Arial, sans-serif"
-      font-size="17"
-      fill="#CBD5E1">
+      font-size="21"
+      font-weight="600"
+      fill="#67E8F9">
 
-    JSS Academy of Higher Education &amp; Research
-
+    BSc Biotechnology, Chemistry
   </text>
-
-
+       
   <!-- INTERESTS TITLE -->
 
   <text
