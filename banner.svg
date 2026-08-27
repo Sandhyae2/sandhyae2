@@ -588,8 +588,7 @@
 
 
   <!-- DEGREE -->
-
-  <text
+ <text
       x="70"
       y="425"
       font-family="Arial, sans-serif"
@@ -597,9 +596,9 @@
       font-weight="600"
       fill="#67E8F9">
 
-    -- MSc Bioinformatics
+    💡 Exploring new ideas
   </text>
-<text
+ <text
       x="70"
       y="455"
       font-family="Arial, sans-serif"
@@ -607,14 +606,34 @@
       font-weight="600"
       fill="#67E8F9">
 
-    -- BSc Biotechnology, Chemistry
+    ✨🌻  Grounded and Glowing 
+  </text>
+  <text
+      x="70"
+      y="485"
+      font-family="Arial, sans-serif"
+      font-size="21"
+      font-weight="600"
+      fill="#67E8F9">
+
+    -- Master's in Bioinformatics
+  </text>
+<text
+      x="70"
+      y="515"
+      font-family="Arial, sans-serif"
+      font-size="21"
+      font-weight="600"
+      fill="#67E8F9">
+
+    -- Bachelor's in Biotechnology &amp; Chemistry
   </text>
        
   <!-- INTERESTS TITLE -->
 
   <text
-      x="70"
-      y="505"
+      x="80"
+      y="545"
       font-family="Arial, sans-serif"
       font-size="20"
       font-weight="600"
@@ -629,7 +648,7 @@
 
   <text
       x="70"
-      y="540"
+      y="575"
       font-family="Arial, sans-serif"
       font-size="16"
       fill="#E2E8F0">
@@ -643,7 +662,7 @@
 
   <text
       x="390"
-      y="540"
+      y="575"
       font-family="Arial, sans-serif"
       font-size="16"
       fill="#E2E8F0">
@@ -657,7 +676,7 @@
 
   <text
       x="760"
-      y="540"
+      y="575"
       font-family="Arial, sans-serif"
       font-size="16"
       fill="#E2E8F0">
@@ -670,8 +689,8 @@
   <!-- INTEREST 4 -->
 
   <text
-      x="70"
-      y="570"
+      x="80"
+      y="605"
       font-family="Arial, sans-serif"
       font-size="16"
       fill="#E2E8F0">
