@@ -731,53 +731,84 @@
 
   </text>
 
-<!-- ================================================= -->
-<!-- PROGRAMMING LANGUAGES -->
-<!-- ================================================= -->
-
-<text
-    x="70"
-    y="625"
-    font-family="Arial, sans-serif"
-    font-size="20"
-    font-weight="600"
-    fill="#67E8F9">
 
   <!-- ================================================= -->
-<!-- PROGRAMMING LANGUAGES -->
-<!-- ================================================= -->
+  <!-- PROGRAMMING LANGUAGES -->
+  <!-- ================================================= -->
 
-<text
-    x="70"
-    y="625"
-    font-family="Arial, sans-serif"
-    font-size="20"
-    font-weight="600"
-    fill="#67E8F9">
+  <text
+      x="70"
+      y="625"
+      font-family="Arial, sans-serif"
+      font-size="20"
+      font-weight="600"
+      fill="#67E8F9">
+    PROGRAMMING LANGUAGES
+  </text>
 
-  💻 PROGRAMMING LANGUAGES
-<!-- ================================================= -->
-<!-- PROGRAMMING LANGUAGES -->
-<!-- ================================================= -->
+  <!-- Python logo: simplified vector mark -->
 
-<!-- ================================================= -->
-<!-- PROGRAMMING LANGUAGES -->
-<!-- ================================================= -->
+  <g transform="translate(75,650)">
 
-<text
-    x="70"
-    y="625"
-    font-family="Arial, sans-serif"
-    font-size="20"
-    font-weight="600"
-    fill="#67E8F9">PROGRAMMING LANGUAGES</text>
+    <!-- Upper blue section -->
+    <path
+        d="M20 0
+           H38
+           Q48 0 48 10
+           V24
+           H22
+           Q12 24 12 34
+           V39
+           H7
+           Q0 39 0 32
+           V17
+           Q0 7 10 7
+           H20 Z"
+        fill="#3776AB"/>
 
-<text
-    x="75"
-    y="675"
-    font-family="Arial, sans-serif"
-    font-size="18"
-    font-weight="600"
-    fill="#F8FAFC">Python</text>
+    <!-- Upper highlight -->
+    <circle
+        cx="35"
+        cy="9"
+        r="2.5"
+        fill="#FFFFFF"/>
+
+    <!-- Lower yellow section -->
+    <path
+        d="M28 48
+           H10
+           Q0 48 0 38
+           V24
+           H26
+           Q36 24 36 14
+           V9
+           H41
+           Q48 9 48 16
+           V31
+           Q48 41 38 41
+           H28 Z"
+        fill="#FFD43B"
+        transform="translate(12,0)"/>
+
+    <!-- Lower highlight -->
+    <circle
+        cx="25"
+        cy="39"
+        r="2.5"
+        fill="#FFFFFF"/>
+
+  </g>
+
+  <!-- Python label -->
+
+  <text
+      x="155"
+      y="687"
+      font-family="Arial, sans-serif"
+      font-size="19"
+      font-weight="600"
+      fill="#F8FAFC">
+    Python
+  </text>
 
 </svg>
