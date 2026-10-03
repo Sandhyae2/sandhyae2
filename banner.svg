@@ -603,7 +603,7 @@
       x="80"
       y="412"
       font-family="Arial, sans-serif"
-      font-size="20"
+      font-size="18"
       font-weight="600"
       fill="#A78BFA">
 
@@ -613,7 +613,7 @@
       x="110"
       y="412"
       font-family="Arial, sans-serif"
-      font-size="20"
+      font-size="18"
       font-weight="600"
       fill="#A78BFA">
 
@@ -623,7 +623,7 @@
       x="80"
       y="439"
       font-family="Arial, sans-serif"
-      font-size="20"
+      font-size="18"
       font-weight="600"
       fill="#A78BFA">
 
@@ -633,7 +633,7 @@
       x="110"
       y="439"
       font-family="Arial, sans-serif"
-      font-size="20"
+      font-size="18"
       font-weight="600"
       fill="#A78BFA">
 
@@ -643,7 +643,7 @@
       x="70"
       y="466"
       font-family="Arial, sans-serif"
-      font-size="20"
+      font-size="18"
       font-weight="600"
       fill="#67E8F9">
 
@@ -654,7 +654,7 @@
       x="70"
       y="493"
       font-family="Arial, sans-serif"
-      font-size="20"
+      font-size="18"
       font-weight="600"
       fill="#67E8F9">
 
@@ -667,7 +667,7 @@
       x="70"
       y="526"
       font-family="Arial, sans-serif"
-      font-size="25"
+      font-size="20"
       font-weight="600"
       fill="#67E8F9">
 
@@ -682,7 +682,7 @@
       x="70"
       y="553"
       font-family="Arial, sans-serif"
-      font-size="20"
+      font-size="18"
       fill="#E2E8F0">
 
     🧠 Computational Neuroscience
@@ -696,7 +696,7 @@
       x="390"
       y="553"
       font-family="Arial, sans-serif"
-      font-size="20"
+      font-size="18"
       fill="#E2E8F0">
 
     🧬 Genomics &amp; Bioinformatics
@@ -710,7 +710,7 @@
       x="760"
       y="553"
       font-family="Arial, sans-serif"
-      font-size="20"
+      font-size="18"
       fill="#E2E8F0">
 
     🧪 Genetic Engineering
@@ -724,7 +724,7 @@
       x="70"
       y="580"
       font-family="Arial, sans-serif"
-      font-size="20"
+      font-size="18"
       fill="#E2E8F0">
 
     🤖 AI / ML in Biology
