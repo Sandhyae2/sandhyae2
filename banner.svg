@@ -613,7 +613,7 @@
       font-weight="600"
       fill="#F8FAFC">
 
-    ✨
+    &#x2728;
 
   </text>
   <text
@@ -638,7 +638,7 @@
       font-weight="600"
       fill="#A78BFA">
 
-    💡 
+    	&#x1F4A1; 
   </text>
   <text
       x="110"
@@ -658,7 +658,7 @@
       font-weight="600"
       fill="#A78BFA">
 
-🌻   
+&#x1F33B;  
   </text>
   <text
       x="110"
@@ -678,7 +678,7 @@
       font-weight="600"
       fill="#67E8F9">
 
-- 🎓Master's in Bioinformatics
+- &#x1F393;Master's in Bioinformatics
   </text>
 
 <text
@@ -689,7 +689,7 @@
       font-weight="600"
       fill="#67E8F9">
 
-  - 🎓Bachelor's in Biotechnology &amp; Chemistry
+  - &#x1F393;Bachelor's in Biotechnology &amp; Chemistry
   </text>
        
   <!-- INTERESTS TITLE -->
@@ -702,7 +702,7 @@
       font-weight="600"
       fill="#67E8F9">
 
-    ✦ INTERESTED IN
+    	&#x2726; INTERESTED IN
 
   </text>
 
@@ -716,7 +716,7 @@
       font-size="18"
       fill="#E2E8F0">
 
-    🧠 Computational Neuroscience
+    &#x1F9E0; Computational Neuroscience
 
   </text>
 
@@ -730,7 +730,7 @@
       font-size="18"
       fill="#E2E8F0">
 
-    🧬 Genomics &amp; Bioinformatics
+    &#x1F9EC; Genomics &amp; Bioinformatics
 
   </text>
 
@@ -744,7 +744,7 @@
       font-size="18"
       fill="#E2E8F0">
 
-    🧪 Genetic Engineering
+    &#x1F9EA; Genetic Engineering
 
   </text>
 
@@ -758,7 +758,7 @@
       font-size="18"
       fill="#E2E8F0">
 
-    🤖 AI / ML in Biology
+    &#x1F916; AI / ML in Biology
 
   </text>
 
@@ -766,23 +766,18 @@
 <!-- PROGRAMMING LANGUAGES -->
 <!-- ================================================= -->
 
-<text
-    x="70"
-    y="625"
-    font-family="Arial, sans-serif"
-    font-size="20"
-    font-weight="600"
-    fill="#67E8F9">
-  PROGRAMMING LANGUAGES
-</text>
+<text x="70" y="625"
+      font-family="Arial, sans-serif"
+      font-size="20" font-weight="600"
+      fill="#67E8F9">PROGRAMMING LANGUAGES</text>
 
-<text
-    x="70"
-    y="680"
-    font-family="Arial, sans-serif"
-    font-size="22"
-    font-weight="600"
-    fill="#F8FAFC">
-  Python
-</text>
+<!-- Official Python logo (embedded, so GitHub can render it) -->
+<image x="70" y="645" width="48" height="48"
+       href="data:image/svg+xml;base64,PYTHON_LOGO_B64"/>
+
+<text x="132" y="678"
+      font-family="Arial, sans-serif"
+      font-size="22" font-weight="600"
+      fill="#F8FAFC">Python</text>
+
 </svg>
