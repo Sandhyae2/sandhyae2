@@ -13,6 +13,37 @@
       <stop offset="100%" stop-color="#061A32"/>
     </linearGradient>
 
+  <!-- ================================================= -->
+  <!-- PYTHON LOGO GRADIENTS -->
+  <!-- ================================================= -->
+
+  <linearGradient
+      id="pythonBlueOfficial"
+      gradientUnits="userSpaceOnUse"
+      x1="26.648937"
+      y1="20.603781"
+      x2="135.66525"
+      y2="114.39767">
+
+    <stop offset="0" stop-color="#5a9fd4"/>
+    <stop offset="1" stop-color="#306998"/>
+
+  </linearGradient>
+
+
+  <linearGradient
+      id="pythonYellowOfficial"
+      gradientUnits="userSpaceOnUse"
+      x1="150.96111"
+      y1="192.35176"
+      x2="112.03144"
+      y2="137.27299">
+
+    <stop offset="0" stop-color="#ffd43b"/>
+    <stop offset="1" stop-color="#ffe873"/>
+
+  </linearGradient>
+
 
     <!-- ================================================= -->
     <!-- CYAN WAVE GRADIENT -->
@@ -731,7 +762,6 @@
 
   </text>
 
-
 <!-- ================================================= -->
 <!-- PROGRAMMING LANGUAGES -->
 <!-- ================================================= -->
@@ -746,16 +776,13 @@
   PROGRAMMING LANGUAGES
 </text>
 
-<!-- OFFICIAL PYTHON LOGO SVG CONTENT GOES HERE -->
-
-<!-- Python label -->
 <text
-    x="105"
-    y="725"
-    text-anchor="middle"
+    x="70"
+    y="680"
     font-family="Arial, sans-serif"
-    font-size="18"
+    font-size="22"
     font-weight="600"
     fill="#F8FAFC">
   Python
 </text>
+</svg>
