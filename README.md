@@ -28,6 +28,7 @@
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/c) 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) 
 [![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/) 
+[![MATLAB](https://img.shields.io/badge/MATLAB-%23E16737.svg?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
 
 <!-- <h3 align="left"> Languages</h3>  -->
 <h3> 📚 Libraries: </h3>
@@ -48,7 +49,6 @@
 <h3> 🧬 Bioinformatic Tools: </h3>
 
 [![AutoDock](https://img.shields.io/badge/AutoDock-%23000000.svg?style=for-the-badge&logoColor=white)](https://autodock.scripps.edu/)
-[![KEGG](https://img.shields.io/badge/KEGG-%23006699.svg?style=for-the-badge&logoColor=white)](https://www.genome.jp/kegg/)
 [![Cytoscape](https://img.shields.io/badge/Cytoscape-%23F4B400.svg?style=for-the-badge&logoColor=white)](https://cytoscape.org/)
 
 
